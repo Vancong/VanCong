@@ -146,7 +146,7 @@ body {
 .info .right {
     margin-left: 200px;
     margin-right: 100px;
-    margin-top: -260px;
+    margin-top: -210px;
 }
 
 .info2 {
@@ -236,6 +236,7 @@ body {
 .group .content {
     width: calc(100vw - 120px);
     margin: 0 auto;
+
     height: calc(100vh - 160px);
 }
 .group img {
